@@ -1,0 +1,1 @@
+export const Avatar2 = require('./avatar2.png');
