@@ -5,7 +5,6 @@ import { Dossier } from 'screens/dossier/Dossier';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Open up App.tsx to start working on your app!</Text>
       <Dossier />
       <StatusBar style="auto" />
     </View>
